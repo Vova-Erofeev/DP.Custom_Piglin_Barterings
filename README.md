@@ -1,4 +1,4 @@
-# [Custom Piglin Barterings](https://github.com/Slarof/DP.Custom_Piglin_Barterings/wiki)
+# [Custom Piglin Barterings](https://github.com/Vova-Erofeev/DP.Custom_Piglin_Barterings/wiki)
 - Изменяет сделки пиглинов
   - Взрывные и обычные зелья стакаются до 16 шт.
   - Эндер-жемчуг стакается до 64 шт.
